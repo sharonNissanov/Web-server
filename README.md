@@ -15,3 +15,5 @@ You will also see any lint errors in the console.<br />
 Start donate money and see what you get in the data.json file.
 
 Enjoy 😊
+
+![screenshot](image.jpeg)
