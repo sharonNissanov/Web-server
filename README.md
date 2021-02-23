@@ -8,10 +8,10 @@ Creating a HTTP server that serves the HTML & CSS and sending the information fr
 
 ### Setup & Run
 - Clone or download this repository https://github.com/sharonNissanov/Web-server 
-- Run the app in the development mode: in cmd run ```node  server.js``` to serve the html file.
-Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+- Run the app in the development mode: in cmd run ```node  server.js``` to serve the html file.<br />
+Open [http://localhost:8080](http://localhost:8080) to view it in the browser.<br />
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.<br />
 Start donate money and see what you get in the data.json file.
 
 Enjoy 😊
