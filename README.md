@@ -1,9 +1,9 @@
 # **Create a Web Server**
 
-Creating a HTTP server that serves the HTML & CSS and sending information from the frontend to the backend, and persisting it-by saving all the data in the 'data.json' file.
-⚡️ HTML, CSS, Node JS ⚡️
-👍 This was developed in the target style of https://glitch.com.
-👍 After each time the user clicks "Give Now", the donated amount sent to the web server.
+Creating a HTTP server that serves the HTML & CSS and sending information from the frontend to the backend, and persisting it-by saving all the data in the 'data.json' file. <br /> 
+⚡️ HTML, CSS, Node JS ⚡️<br />
+👍 This was developed in the target style of https://glitch.com.<br />
+👍 After each time the user clicks "Give Now", the donated amount <br />sent to the web server. <br />
 👍 The amount donated and the time of each donation are saved in the 'data.json' file.
 
 ### Setup & Run
